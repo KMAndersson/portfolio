@@ -1,12 +1,12 @@
 ---
-Logo: image/leaf_256x256.png
-Tagline: My portfolio.
+Logo: image/posten_256x256.png
+Tagline: Min portfolio.
 Social:
-    - title: Länk till portfolio.
-      url: http://localhost:8080/dbwebb/design/me/portfolio/
+    - title: Länk till rep på GitHub.
+      url: https://github.com/KMAndersson/portfolio
       icon: github
     - title: Länk till Twitter.
-      url: http://twitter.com/
+      url: https://github.com/KMAndersson/portfolio
       icon: twitter
     - title: Länk till Instagram.
       url: https://www.instagram.com/k.martinandersson/

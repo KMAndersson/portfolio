@@ -73,13 +73,13 @@ body {
     display: flex;
     justify-content: space-between;
     color: white;
-    background-color: #222;
-    height: 150px;
+    background-color: rgb(246, 207, 67);
+    height: 60px;
     padding: 10px;
 }
 
 .footer a {
-    color: white;
+    color: rgb(46, 111, 187);
     text-decoration: none;
 }
 
@@ -153,19 +153,19 @@ blockquote {
 
 
 .nav li:first-child {
-    background-color: yellow;
+    background-color: rgb(246, 207, 67);
 }
 
 .nav li:last-child {
-    background-color: blue;
+    background-color: rgb(46, 111, 187);
 }
 
 .nav li:first-child:hover {
-    background-color: blue;
+    background-color: rgb(46, 111, 187);
 
 }
 
 .nav li:last-child:hover {
-    background-color: yellow;
+    background-color:rgb(246, 207, 67);
 
 }
